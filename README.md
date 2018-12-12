@@ -1,3 +1,12 @@
+## Dear recrutor
+
+To install the project
+`npm install`
+
+To start the project
+`yarn start`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
