@@ -1,7 +1,7 @@
 ## Dear recrutor
 
-To install the project
-`npm install`
+To install the project (make sure you have installed yarn)
+`yarn install`
 
 To start the project
 `yarn start`
