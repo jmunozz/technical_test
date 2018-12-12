@@ -1,0 +1,8 @@
+.ticks-container {
+  display:flex;
+  flex-direction: column;
+}
+
+.ticks-total-container {
+  margin-bottom:10px;
+}
